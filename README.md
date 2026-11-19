@@ -59,3 +59,16 @@ Fale com a equipe pelo site **[holtzadvogados.com.br](https://holtzadvogados.com
 *Feito em Sorocaba · SP* 🇧🇷
 
 </div>
+
+---
+
+## 🐍 Contribuições
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="dist/github-contribution-grid-snake-dark.svg">
+  <img alt="Cobrinha do gráfico de contribuições" src="dist/github-contribution-grid-snake.svg">
+</picture>
+
+</div>
