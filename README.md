@@ -1,6 +1,6 @@
 <div align="center">
 
-# Holtz Advogados e Associados · Tecnologia
+# Triade Ia Solutions
 
 **Gestão jurídica com IA, automação e painéis sob medida.**
 *Atendimento rápido, prazos sob controle e decisões com dados.*
